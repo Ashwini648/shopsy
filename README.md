@@ -18,3 +18,9 @@ Our platform’s architecture is modern and corresponds to the latest trends in 
 <h1>Shopsys Website</h1>
 
 <img src="shopsy1.png"/>
+<hr>
+<img src="shopsy2.png"/>
+<hr>
+<img src="shopsy3.png"/>
+<hr>
+<img src="shopsy1.png"/>
